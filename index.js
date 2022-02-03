@@ -5,11 +5,11 @@
 const fs = require("fs");
  
 
-let readableStream = fs.createReadStream("my-1.json" );
+let readableStream = fs.createReadStream("my-1.csv" );
  
 readableStream.on("data", function(chunk){ 
 
-    console.log(JSON.parse( chunk));
+    console.log(chunk);
 });
 
 //let readableStream = fs.createReadStream("hello.txt", "utf8");
