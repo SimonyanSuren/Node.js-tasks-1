@@ -1,0 +1,7 @@
+    name    ------>    type   ------>     size    ------>
+D:\Task 1\New folder 1\book.pdf------>File------>44309.426 KB------>
+D:\Task 1\New folder 1\my-1.json------>File------>0.581 KB------>
+D:\Task 1\New folder 1\New folder 2------>Folder------>0 KB------>
+D:\Task 1\New folder 1\New Folder 3------>Folder------>0 KB------>
+D:\Task 1\New folder 1\New folder.pdf------>Folder------>0 KB------>
+D:\Task 1\New folder 1\test.txt------>File------>0.032 KB
